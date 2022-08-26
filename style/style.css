@@ -1,0 +1,37 @@
+.img{
+    background-image: url("../images/HD-Whatsapp-DP-Images-scaled.jpg");
+    height: 150px; width: 200px;
+    background-size: cover; background-position: center;
+    margin-top: 30px;
+    margin-left: 40%;
+
+}
+.tittle{
+    margin-left: 180px;
+    color: brown;
+}
+.login{
+    
+    float: left;
+    margin-left: 50px;
+}
+.edit{
+    margin-left: 80px;
+}
+.Register{
+    float: right;
+
+}
+.tittle2{
+  margin-right: 400px;
+  color: brown;
+}
+.reg{
+    width: 350px;
+
+}
+.acc{
+    margin-top: 50px;
+    font-size: 15px;
+}
+.btn{width: 350px;}
